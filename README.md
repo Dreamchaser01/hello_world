@@ -1,13 +1,12 @@
-//hello_world : the first step to embark on the CS journey
+//hello_world : the first step to embark on the CS journey                       
 
-#include<stdio.h>
+#include<stdio.h>                       
 
-int main()
+int main()                     
 
-{ 
-printf("Hello, World!");
-return 0;
-}
+{                       
+printf("Hello, World!");                       
+}                     
 
-//to compile it use :gcc -o Birth.c Birth )
-//to run enter :Birth )
+//to compile it use :gcc -o Birth.c Birth )                                       
+//to run enter :Birth )                                      
