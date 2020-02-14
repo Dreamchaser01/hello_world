@@ -9,5 +9,5 @@ printf("Hello, World!");
 return (0);
 }                     
                                    
-//to compile it use :gcc -o Birth.c Birth )                                       
+//to compile it use :gcc -o Birth.c Birth ) 
 //to run enter :Birth )                                      
